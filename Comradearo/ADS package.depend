@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1605947431 source:c:\users\nikil\desktop\nikki\semester-3\advanced data structures\ads package\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<string>
+	<fstream>
+
+1604217677 c:\users\nikil\desktop\nikki\semester-3\advanced data structures\ads package\trie.h
+
